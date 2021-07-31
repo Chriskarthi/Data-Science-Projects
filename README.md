@@ -1,2 +1,2 @@
-# Data-Science-Projects
-This is set of projects which i have implemented while learning about each algorithms of machine learning
+# LINEAR REGRESSION PROJECT 
+In this project i have used linear regression to  predict the house prices with the help of the given data
